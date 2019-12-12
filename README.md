@@ -1,2 +1,1 @@
-# SDMX-Glossary
-Glossary of SDMX terms
+# Glossary of SDMX terms
