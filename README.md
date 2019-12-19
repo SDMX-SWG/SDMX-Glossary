@@ -1,7 +1,8 @@
-<center> <h1> SDMX GUIDELINES </h1> </center>
-
 # SDMX GLOSSARY 
-## VERSION 2.0 - AUGUST 2018
+VERSION 2.0 - AUGUST 2018
+
+&nbsp;
+&nbsp;
 
 DOCUMENT HISTORY
 
@@ -9,8 +10,9 @@ DOCUMENT HISTORY
 |---|---|
 |Version 1.0	|Finalised in February 2016|
 |Version 2.0	|Finalised in August 2018|
-|Version 2.1	|Added “Recommended uses and limitations”, “Technical notes”. Updates to existing termss|
+|Version 2.1	|Added “Recommended uses and limitations”, “Technical notes”. Updates to existing terms|
 
+&nbsp;
 
 ## INTRODUCTION
 The SDMX Glossary is an SDMX guideline containing concepts and related definitions that are useful for building and understanding data and metadata exchange arrangements based on SDMX. The Glossary provides definition of terms found in the SDMX Information Model, Data Structure Definitions  (DSDs), and Metadata Structure Definitions (MSDs) at the time of the present release. It is recommended as a single entry point to a common SDMX terminology to be used in order to facilitate communication and understanding of the standard.
@@ -41,6 +43,8 @@ ATTRIBUTES USED FOR DESCRIBING CONCEPTS LISTED IN THE GLOSSARY
 |Other link(s)	|Link(s) to material that is related, closely or loosely, to, but not directly associated with the concept source of the term, e.g. link to a general methodological document.|
 
 \* Denotes mandatory fields
+
+
 
 ## CONTACT ADDRESS
 For any question, comment or correction, feel free to contact the SDMX Statistical Working Group (SWG) at the following address: swg@sdmx.org. 
