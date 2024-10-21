@@ -1,5 +1,5 @@
 # SDMX GLOSSARY 
-VERSION 2.0 - AUGUST 2018
+VERSION 2.1 - December 2020
 
 &nbsp;
 &nbsp;
@@ -11,6 +11,7 @@ DOCUMENT HISTORY
 |Version 1.0	|Finalised in February 2016|
 |Version 2.0	|Finalised in August 2018|
 |Version 2.1	|Added “Recommended uses and limitations”, “Technical notes”. Updates to existing terms|
+|Version 2.1	|Finalised in December 2020| : https://sdmx.org/wp-content/uploads/SDMX_Glossary_Version_2_1_December_2020.htm
 
 &nbsp;
 
